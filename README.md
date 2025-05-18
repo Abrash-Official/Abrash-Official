@@ -24,7 +24,7 @@
 ### 📫 Reach Me
 - **Email:** abrash.official100@gmail.com  
 - **LinkedIn:** [Abrash Arshad](https://www.linkedin.com/in/abrash-arshad-205b172a7/)  
-- **Portfolio:** [Abrash Official](https://portfolio-by-abrash.netlify.app/)  
+- **Portfolio:** [Abrash Official](https://abrash-official.netlify.app/)  
 - **Leetcode:** [Abrash Official](https://leetcode.com/u/Abrash-Official/)  
 - **X:** [Abrash Official](https://x.com/Abrash_Official)  
 
