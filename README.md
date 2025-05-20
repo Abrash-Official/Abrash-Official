@@ -1,47 +1,41 @@
-# 👋 Hi, I’m Muhammad Abrash
+![logo](https://github.com/Abrash-Official/Abrash-Official/blob/main/banner.png)
 
-**Aspiring Machine Learning Engineer • BSCS @ Institute for Arts & Culture, Lahore**
+<h1 align="center">Hi 👋, I'm Muhammad Abrash</h1>
+<h3 align="center">Aspiring Machine Learning Engineer • BSCS @ Institute for Arts & Culture, Lahore</h3>
 
----
+<img align="right" alt="coding" width="400" src="coding.png">
 
-### 👀 Interests
-- Machine Learning & Deep Learning  
-- Computer Vision & Robotics  
-- Natural Language Processing  
-- Open-source contributions & tech communities  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abrash-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Abrash-Official" /> </p>
 
-### 🌱 Currently Learning
-- Advanced ML mathematics (Linear Algebra, Calculus, Probability)  
-- PyTorch fundamentals & model deployment  
-- Robotics algorithms and ROS2 basics  
-- Clean architecture & testing in Python  
+### 👀 About Me
+- 🌱 Currently learning **Advanced ML mathematics, PyTorch, Robotics algorithms, and Clean architecture**
+- 💞️ Looking to collaborate on **AI/ML research projects, Open-source ML tooling**
+- 📫 Reach me at **abrash.official100@gmail.com**
+- ⚡ Fun fact: **I play with code the way others play video games 🎮**
 
-### 💞️ Looking to Collaborate On
-- AI/ML research projects (speech or sign-language recognition, CV, NLP)  
-- Open-source ML tooling and datasets  
-- Competitive programming study groups  
+### 🛠️ Languages and Tools:
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
-### 📫 Reach Me
-- **Email:** abrash.official100@gmail.com
-- **Portfolio:** [Abrash Official](https://abrash-official.netlify.app/)
-- **LinkedIn:** [Abrash Arshad](https://www.linkedin.com/in/abrash-arshad-205b172a7/)    
-- **Leetcode:** [Abrash Official](https://leetcode.com/u/Abrash-Official/)  
-- **X:** [Abrash Official](https://x.com/Abrash_Official)  
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/abrash-arshad-205b172a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrash-arshad" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Abrash-Official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrash-official" height="30" width="40" /></a>
+<a href="https://x.com/Abrash_Official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrash_official" height="30" width="40" /></a>
+<a href="https://abrash-official.netlify.app/" target="blank"><img align="center" src="portfolio.jpg" alt="portfolio" height="30" width="40" /></a>
+</p>
 
-### 😄 Pronouns
-He / Him
+### 📊 GitHub Stats:
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abrash-Official&show_icons=true&locale=en&layout=compact" alt="Abrash-Official" />
+</p>
 
-### ⚡ Fun Facts
-- Solved 130+ LeetCode problems (array lover 🤓)  
-- Dream company: **Tesla** — where AI meets real-world impact  
-- Multilingual: Urdu, English, a bit of Hindi  
-- I play with code the way others play video games 🎮  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abrash-Official&show_icons=true&locale=en" alt="Abrash-Official" /></p>
 
----
-
-> *“Code is poetry in motion — let’s build something remarkable together!”*
-
-<!---
-Abrash-Official/Abrash-Official is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abrash-Official&" alt="Abrash-Official" /></p>
