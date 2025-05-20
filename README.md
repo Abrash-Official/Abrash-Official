@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrash</h1>
 <h3 align="center">Aspiring Machine Learning Engineer • BSCS @ Institute for Arts & Culture, Lahore</h3>
 
-<img align="right" alt="coding" width="400" src="coding.png">
+<img align="right" alt="coding" width="400" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abrash-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Abrash-Official" /> </p>
 
