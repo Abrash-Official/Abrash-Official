@@ -22,9 +22,9 @@
 - Competitive programming study groups  
 
 ### 📫 Reach Me
-- **Email:** abrash.official100@gmail.com  
-- **LinkedIn:** [Abrash Arshad](https://www.linkedin.com/in/abrash-arshad-205b172a7/)  
-- **Portfolio:** [Abrash Official](https://abrash-official.netlify.app/)  
+- **Email:** abrash.official100@gmail.com
+- **Portfolio:** [Abrash Official](https://abrash-official.netlify.app/)
+- **LinkedIn:** [Abrash Arshad](https://www.linkedin.com/in/abrash-arshad-205b172a7/)    
 - **Leetcode:** [Abrash Official](https://leetcode.com/u/Abrash-Official/)  
 - **X:** [Abrash Official](https://x.com/Abrash_Official)  
 
@@ -34,7 +34,7 @@ He / Him
 ### ⚡ Fun Facts
 - Solved 130+ LeetCode problems (array lover 🤓)  
 - Dream company: **Tesla** — where AI meets real-world impact  
-- Multilingual: Urdu, English, a bit of Bangla  
+- Multilingual: Urdu, English, a bit of Hindi  
 - I play with code the way others play video games 🎮  
 
 ---
