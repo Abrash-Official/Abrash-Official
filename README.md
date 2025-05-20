@@ -1,5 +1,3 @@
-![logo](https://github.com/Abrash-Official/Abrash-Official/blob/main/banner.png)
-
 <h1 align="center">Hi 👋, I'm Muhammad Abrash</h1>
 <h3 align="center">Aspiring Machine Learning Engineer • BSCS @ Institute for Arts & Culture, Lahore</h3>
 
@@ -39,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abrash-Official&show_icons=true&locale=en" alt="Abrash-Official" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abrash-Official&" alt="Abrash-Official" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abrash-Official&" alt="Abrash-Official" /></p> -->
