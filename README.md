@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abrash-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Abrash-Official" /> </p>
 
 ### 👀 About Me
-- 🌱 Currently learning **Advanced ML mathematics, PyTorch, Robotics algorithms, and Clean architecture**
+- 🌱 Currently learning **Advanced ML mathematics, Tensorflow, Robotics algorithms, and Clean architecture**
 - 💞️ Looking to collaborate on **AI/ML research projects, Open-source ML tooling**
 - 📫 Reach me at **abrash.official100@gmail.com**
 - ⚡ Fun fact: **I play with code the way others play video games 🎮**
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abrash-Official&show_icons=true&locale=en" alt="Abrash-Official" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abrash-Official&" alt="Abrash-Official" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abrash-Official&" alt="Abrash-Official" /></p> -->
