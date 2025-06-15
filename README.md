@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abrash</h1>
+<h1 align="center">Hi 👋, I'm Abrash Arshad</h1>
 <h3 align="center">Aspiring Machine Learning Engineer • BSCS @ Institute for Arts & Culture, Lahore</h3>
 
 <img align="right" alt="coding" width="400" src="coding.gif">
